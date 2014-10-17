@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gru:home|Door43 (gru)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gru|d43-gru repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gru/archive/master.zip|d43-gru.zip]]
+
+**Recent Changes**
+{{changes>ns = gru}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gru|Ethnologue data]]
+
